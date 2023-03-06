@@ -5,11 +5,6 @@ Yes, there’s one Rayta here, and no, it’s not "Raita" (the famous Indian yog
 ## What I do
 I work as a Senior Engineering Manager for Primer Brand and Brand Engineering at GitHub, and I am  deeply embedded in several tech communities like the monthly [Amsterdam Ruby](https://www.amsrb.org/) community, [Lowlands Community Meetup](https://www.meetup.com/lowlands-community/), [DevOpsDays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/), and some more 😎. I love to be part of tech events that support DEI, such as [RailsGirls](http://railsgirls.com/amsterdam2019.html) and [A11y Conf](https://techa11y.dev/) and I'm pretty vocal on these subjects.
 
-I was founder of a [travel agency](https://www.sportiek.com/), but shifted to programming after a couple of years. 
-I learned how to write Ruby, became an IC, quickly shifted to a Platform team where I learned about Cloud Computing, became team lead and eventually an Engineering Manager.
-
-In my last profession, I was an EM for a FinTech company where I managed to grow the dev team from 4 to 21 during the pandemic. 
-
 ## What I love
 
 - 🐶 I love the walks in the woods with my Bernese Mountaindog 
