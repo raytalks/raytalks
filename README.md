@@ -3,11 +3,9 @@
 Yes, there’s one Rayta here, and no, it’s not "Raita" (the famous Indian yogurt, cucumber side dish). Thanks mom and dad. People cannot stop giggling when they read my name now. It's pronounced as "Right-a", but you can also call me "Rei" or "Ray" ✌🏽. My pronouns are she/her 🫡
 
 ## What I do
-I work as a Senior Engineering Manager for Primer Brand and Brand Engineering at GitHub. 
+I work as a Senior Engineering Manager for Design Engineering at GitHub. 
 
 ## What I love
-
-- 🐶 I love the walks in the woods with my Bernese Mountaindog 
 - 🫣 You might notice I'm a fan of emojis and gifs in my communication 
 - 👨‍👩‍👧‍👦 I enjoy hanging out with my family and friends, while enjoying a lovely meal 
 - 🌶 I love spicy food 
